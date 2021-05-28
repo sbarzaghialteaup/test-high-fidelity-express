@@ -10,3 +10,9 @@ APP_ID="your new app ID"
 SPACE_ID="you new space ID"
 APP_SECRET="you app secret"
 ```
+
+- Start the server:
+
+```
+node index.js
+```
